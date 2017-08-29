@@ -1,4 +1,9 @@
 http://palined.com/search/
+-------------------------------------------------------
+Best example how to wget
+
+wget -r --no-parent --reject "index.html*" -nH --cut-dirs=6 https://web.archive.org/web/20170825211501/https://danwin1210.me/uploads/Books/
+-------------------------------------------------------------------------
 
 Examples on how to google open dir's
 
